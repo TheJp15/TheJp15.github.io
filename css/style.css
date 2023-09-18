@@ -92,9 +92,9 @@
 
 .navbar .navbar-brand {
     position: absolute;
-    padding: 0;
+    padding: 10px;
     width: 170px;
-    height: 135px;
+    height: 136px;
     top: 0;
     left: 0;
 }
