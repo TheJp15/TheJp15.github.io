@@ -433,8 +433,8 @@
 }
 
 .testimonial-item img {
-    width: 60px !important;
-    height: 60px !important;
+    width: 100px !important;
+    height: 100px !important;
     border-radius: 60px;
 }
 
@@ -453,7 +453,7 @@
     height: 15px;
     background: var(--primary);
     border-radius: 15px;
-    transition: .5s;
+    transition: .50s;
 }
 
 .testimonial-carousel .owl-dot.active {
